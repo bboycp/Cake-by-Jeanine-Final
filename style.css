@@ -564,7 +564,7 @@
          position: absolute;
          top: 60%;
      }
-      .header-container{
+      .container{
            grid-column:2/5;}
 
      /*==============
