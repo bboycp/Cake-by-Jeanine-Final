@@ -33,7 +33,7 @@
      z-index: 1;
      transform: translateX(0);
      transition: 500ms;
-      grid-column: 2/5;
+     
  }
  
  .open-nav {
@@ -502,6 +502,7 @@
          position: initial;
          background: none;
          margin-bottom: 1.5em;
+         grid-column: 2/5;
      }
      .nav-list {
          flex-direction: row;
