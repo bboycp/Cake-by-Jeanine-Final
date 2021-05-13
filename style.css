@@ -33,6 +33,7 @@
      z-index: 1;
      transform: translateX(0);
      transition: 500ms;
+      grid-column: 2/5;
  }
  
  .open-nav {
@@ -476,12 +477,12 @@
  
  .main-grid {
      display: grid;
-     grid-template-columns: minmax(2em, 1fr) minmax(0px, 90%) minmax(2em, 1fr);
+     grid-template-columns: minmax(3em, 1fr) minmax(0px, 90%) minmax(3em, 1fr);
  }
  
  .main-grid2 {
      display: grid;
-     grid-template-columns: minmax(2em, 1fr) minmax(0px, 40%) minmax(0px, 40%) minmax(2em, 1fr);
+     grid-template-columns: minmax(3em, 1fr) minmax(0px, 40%) minmax(0px, 40%) minmax(3em, 1fr);
      grid-gap: 1em;
      justify-content: space-between;
  }
