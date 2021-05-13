@@ -564,6 +564,9 @@
          position: absolute;
          top: 60%;
      }
+      .header-container{
+           grid-column:2/5;}
+
      /*==============
      cat-section
     =================*/
