@@ -477,7 +477,7 @@
  
  .main-grid {
      display: grid;
-     grid-template-columns: minmax(13em, 1fr) minmax(0px, 90%) minmax(13em, 1fr);
+     grid-template-columns: minmax(3em, 1fr) minmax(0px, 90%) minmax(3em, 1fr);
  }
  
  .main-grid2 {
