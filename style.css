@@ -1,4 +1,4 @@
- * {
+  * {
      margin: 0;
      padding: 0;
      box-sizing: border-box;
@@ -33,7 +33,6 @@
      z-index: 1;
      transform: translateX(0);
      transition: 500ms;
-     
  }
  
  .open-nav {
@@ -69,7 +68,7 @@
      text-decoration: none;
      color: #E29F6F;
      font-size: 2em;
-     font-family: cambria, Georgia, Times, 'Times New Roman', serif;
+     font-family: dancing script,cambria, Georgia, Times, 'Times New Roman', serif;
      padding: 4em;
      font-weight: 900;
  }
@@ -370,7 +369,6 @@
      font-size: 1.2em;
  }
  /*=========================
-
           Contact -page 
 ==============================*/
  
@@ -402,7 +400,6 @@
  
  .footer {
      background: rgb(224, 159, 62);
-     height:
  }
  
  .footer-container {
@@ -477,12 +474,12 @@
  
  .main-grid {
      display: grid;
-     grid-template-columns: minmax(3em, 1fr) minmax(0px, 90%) minmax(3em, 1fr);
+     grid-template-columns: minmax(1em, 1fr) minmax(0px, 90%) minmax(1em, 1fr);
  }
  
  .main-grid2 {
      display: grid;
-     grid-template-columns: minmax(3em, 1fr) minmax(0px, 40%) minmax(0px, 40%) minmax(3em, 1fr);
+     grid-template-columns: minmax(1em, 1fr) minmax(0px, 40%) minmax(0px, 40%) minmax(1em, 1fr);
      grid-gap: 1em;
      justify-content: space-between;
  }
@@ -494,6 +491,9 @@
      /*============
          header
     ==============*/
+     .container {
+         grid-column: 2/5;
+     }
      .open-nav,
      .close-nav {
          display: none;
@@ -502,7 +502,6 @@
          position: initial;
          background: none;
          margin-bottom: 1.5em;
-         grid-column: 2/5;
      }
      .nav-list {
          flex-direction: row;
@@ -526,7 +525,7 @@
          margin-bottom: .8em;
      }
      .nav-item a {
-         font-family: dancing script, Georgia, Times, 'Times New Roman', serif;
+         font-family: Dancing Script, Georgia, Times, 'Times New Roman', serif;
      }
      .logo {
          height: 100px;
@@ -564,9 +563,6 @@
          position: absolute;
          top: 60%;
      }
-      .container{
-           grid-column:2/5;}
-
      /*==============
      cat-section
     =================*/
@@ -666,7 +662,6 @@
      /*===================
                                               Footer
                                         =====================*/
-     .footer {}
      .logo-footer-container {
          grid-column: 2/3;
          text-align: center;
@@ -696,10 +691,10 @@
      }
      .main-grid {
          display: grid;
-         grid-template-columns: minmax(2em, 1fr) repeat(3, minmax(0px, 500px)) minmax(1em, 1fr);
+         grid-template-columns: minmax(4em, 1fr) repeat(3, minmax(0px, 500px)) minmax(4em, 1fr);
      }
      .main-grid2 {
          display: grid;
-         grid-template-columns: minmax(2em, 1fr) repeat(3, minmax(0px, 500px)) minmax(1em, 1fr);
+         grid-template-columns: minmax(2em, 1fr) repeat(3, minmax(0px, 500px)) minmax(2em, 1fr);
      }
  }
