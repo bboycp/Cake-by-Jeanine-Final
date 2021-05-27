@@ -157,9 +157,9 @@
     grid-column: 2/-2;
     margin-left: -50%;
     position: absolute;
-    top: 240px;
+    top: 440px;
     left: 50%;
-    width:500px;
+    max-width:500px;
    
 }
 
