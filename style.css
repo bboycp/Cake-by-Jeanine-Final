@@ -155,16 +155,15 @@
     font-style: italic;
     font-size: 1em;
     grid-column: 2/-2;
-   
-}
-
-.hero-body p {
     margin-left: -50%;
     position: absolute;
     top: 240px;
     left: 50%;
     width:500px;
+   
 }
+
+
  
  .hero-btn {
      top: 80%;
