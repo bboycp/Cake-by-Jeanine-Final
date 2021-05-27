@@ -155,7 +155,7 @@
     font-style: italic;
     font-size: 1em;
     grid-column: 2/-2;
-    display: block;
+   
 }
 
 .hero-body p {
@@ -163,7 +163,7 @@
     position: absolute;
     top: 240px;
     left: 50%;
-    text-align: center;
+    width:500px;
 }
  
  .hero-btn {
