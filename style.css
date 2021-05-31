@@ -562,6 +562,23 @@
          opacity: .6;
          border-radius: 10px;
      }
+  .hero-title,
+ .hero-title-contact {
+     font-family: dancing script, cambria;
+     text-align: center;
+     font-size: 4em;
+     font-weight: 100;
+     line-height: 1.3em;
+     margin-top: 1.3em;
+     background: linear-gradient(to right, rgb(83, 95, 33) 20%, rgb(214, 231, 146) 40%, rgb(227, 236, 190)60%, #ff7c1e 80%, #dd9663 60%, #fac8a4 40%, rgb(219, 121, 117) -70%);
+     background-size: 200% auto;
+     color: #000;
+     background-clip: text;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     animation: shine 6s ease-in infinite;
+     grid-column: 2/-2;
+ }
   .hero-body {
         font-size: 1em;
         width: 500px;
