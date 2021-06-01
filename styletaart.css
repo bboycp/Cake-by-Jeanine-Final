@@ -197,11 +197,11 @@ Taarten page
         background-size: cover;
     }
 .lekkernij&co-select-section4{
-    grid-column:2/2;
+    grid-column:2/-2;
     background-image: url(./img-lekkernij/panseiku.png);
     
     .cocktails&co-select-section2{
-        grid-column:2/2;
+        grid-column:2/-2;
         background-image: url(./img-lekkernij/fruit-punch.png);
     /*====================
         Cocktails
