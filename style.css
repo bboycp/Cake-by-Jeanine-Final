@@ -505,7 +505,7 @@
        Responsive
 =====================*/
  
- @media screen and (min-width: 840px) {
+ @media allscreen and (min-width: 840px) {
      /*============
          header
     ==============*/
