@@ -242,50 +242,87 @@ Taarten page
     =====================*/
         .antiliaansetaart-select-section1 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section2 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section3 {
             grid-column: 4/5;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section4 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section5 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
             background-position: bottom;
         }
         .antiliaansetaart-select-section6 {
-            grid-column: 4/5;
+            grid-column: 4/5;background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section7 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section8 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .antiliaansetaart-select-section9 {
             grid-column: 4/5;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         /*===================
         Gekoelde taart resp
     =====================*/
         .gekoeldetaart-select-section1 {
             grid-column: 2/3;
-            ;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+            
         }
         .gekoeldetaart-select-section2 {
             grid-column: 3/4;
-            ;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+            
         }
         .gekoeldetaart-select-section3 {
             grid-column: 4/5;
-            ;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+            
         }
         .gekoeldetaart-select-section4 {
             grid-column: 2/3;
-            ;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .gekoeldetaart-select-section5 {
             grid-column: 3/4;
@@ -298,36 +335,66 @@ Taarten page
         ================*/
         .lekkernij-select-section1 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section2 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section3 {
             grid-column: 4/5;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section4 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section5 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section6 {
             grid-column: 4/5;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .lekkernij-select-section7 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         /*================
         Cocktails resp
         =================*/
         .cocktails-select-section1 {
             grid-column: 2/3;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .cockails-select-section2 {
             grid-column: 3/4;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .cockails-select-section3 {
             grid-column: 4/5;
+            background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         }
         .cockails-select-section4 {
             grid-column: 2/3;
@@ -338,5 +405,8 @@ Taarten page
     
     .cocktails&co-select-section2{
         grid-column:3/4;
+        background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
         };
     }
