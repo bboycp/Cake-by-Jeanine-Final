@@ -272,8 +272,9 @@
      position: relative;
      box-shadow: 0px 5px 10px 0px rgb(99, 98, 98);
  }
-     .link p{
+     .link {
        color: rgb(155, 126, 70);
+      font-family: dancing script, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
  /*===================
           taarten section main
