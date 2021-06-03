@@ -253,7 +253,7 @@
  
  .cat-container {
      grid-column: 2/-2;
-     padding-bottom: 2em;
+     padding-bottom: 1em;
      height:100%;
     
  }
