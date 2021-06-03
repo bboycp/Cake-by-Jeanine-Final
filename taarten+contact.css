@@ -55,6 +55,7 @@
 }
 .taarten-container {
         height: 100%;
+    margin-bottom:100px;
     }
 
 @media (min-width:800px) {
