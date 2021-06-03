@@ -362,9 +362,9 @@ font-weight:700;}
      opacity: .8;
      width: 80%;
      position: absolute;
-     top: 50%;
+     top: 25%;
      left: 10%;
-     margin-top:-50%;}
+     }
 .textbox2{ padding: 1em;
      background-color: white;
      text-align: center;
