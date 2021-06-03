@@ -521,6 +521,12 @@ font-weight:700;}
      grid-gap: 1em;
      justify-content: space-between;
  }
+
+.main1-cat{
+ background-image:url(img/bolo di kashupete.jpg);
+ background-size:cover;
+ background-repeat: no-repeat;
+}
  /*====================
        Responsive
 =====================*/
