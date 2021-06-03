@@ -355,7 +355,8 @@ font-weight:700;}
   
  }
 
-.textbox1{ padding: 1em;
+.textbox1{ 
+     padding: 1em;
      background-color: white;
      text-align: center;
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -363,10 +364,12 @@ font-weight:700;}
      opacity: .8;
      width: 80%;
      position: absolute;
-     top: 25%;
+     top: 20%;
      left: 10%;
      }
-.textbox2{ padding: 1em;
+
+.textbox2{ 
+     padding: 1em;
      background-color: white;
      text-align: center;
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -374,8 +377,9 @@ font-weight:700;}
      opacity: .8;
      width: 80%;
      position: absolute;
-     top: 30%;
+     top: 20%;
      left: 10%;}
+
 .textbox3{ padding: 1em;
      background-color: white;
      text-align: center;
@@ -384,7 +388,7 @@ font-weight:700;}
      opacity: .8;
      width: 80%;
      position: absolute;
-     top: 30%;
+     top: 20%;
      left: 10%;}
  /*===================
          Taart page
