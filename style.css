@@ -571,6 +571,51 @@ font-weight:700;}
     /*=================
             hero
     ===================*/
+  
+  .textbox {
+      background-color: white;
+    width: 80%;
+    padding: 1em;
+    opacity: .8;
+  
+ }
+
+.textbox1{ 
+     padding: 1em;
+     background-color: white;
+     text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 1.2em;
+     opacity: .8;
+     width: 80%;
+     position: absolute;
+     top: 30%;
+     left: 10%;}
+  
+.textbox2{ 
+     padding: 1em;
+     background-color: white;
+     text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 1.2em;
+     opacity: .8;
+     width: 80%;
+     position: absolute;
+     top: 30%;
+     left: 10%;}
+  
+.textbox3{ 
+     padding: 1em;
+     background-color: white;
+     text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 1.2em;
+     opacity: .8;
+     width: 80%;
+     position: absolute;
+     top: 30%;
+     left: 10%;}
+  
     .hero {
         height: 50vh;
         min-height: 350px;
