@@ -1,11 +1,11 @@
 .taart-title {
-    padding-bottom: .5em;
+    padding-bottom: ;
     font-family: Pacifico;
     text-align: center;
     font-size: 3em;
     font-weight: 100;
     line-height: 1.3em;
-    margin-top: .5em;
+    margin-top: ;
     background: linear-gradient(to right, rgb(219, 102, 98) 20%, #fcbd90 40%, #d68851 60%, #fd6c04 80%, #d68851 60%, #fcbd90 40%, rgb(219, 102, 98) -70%);
     background-size: 200% auto;
     color: #000;
