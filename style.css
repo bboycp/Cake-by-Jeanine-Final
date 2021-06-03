@@ -724,7 +724,7 @@ font-weight:700;}
     /*main1*/
     .main1:hover .textbox1 {
         display: none;
-     opacity:0;
+    
     }
     .main1:hover .text-overlay {
         opacity: 1;
