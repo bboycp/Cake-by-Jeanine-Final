@@ -53,9 +53,11 @@
     background-repeat: no-repeat;
 }
 .taarten-container {
-        height:120%;
+        height:150%;
     grid-column:2/-2;
     }
+
+
 
 @media (min-width:800px) {
     .nav-item a {
@@ -76,6 +78,10 @@
     .taart-select-section4 {
         grid-column: 2/3;
         height: 300px;
+    }
+    .taarten-container {
+        height:120%;
+    grid-column:2/-2;
     }
     
 }
