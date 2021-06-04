@@ -294,6 +294,7 @@ font-weight:700;}
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
+  height:200px;
  }
  
  .main2 {
@@ -303,6 +304,7 @@ font-weight:700;}
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
+   height:200px;
  }
  
  .main3 {
@@ -312,6 +314,7 @@ font-weight:700;}
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
+   height:200px;
  }
  
  
