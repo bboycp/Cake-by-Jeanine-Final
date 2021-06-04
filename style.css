@@ -522,7 +522,7 @@ font-weight:700;}
  .main-grid2 {
      display: grid;
      grid-template-columns: minmax(1em, 1fr) minmax(0px, 40%) minmax(0px, 40%) minmax(1em, 1fr);
-     grid-gap: ;
+     grid-gap: 20px ;
      justify-content: space-between;
  }
 
