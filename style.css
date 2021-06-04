@@ -253,7 +253,7 @@
  
  .cat-container {
      grid-column: 2/-2;
-     height:900px; 
+     height:120%; 
  }
  
  .cat-section {
