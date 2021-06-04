@@ -290,33 +290,28 @@ font-weight:700;}
  .main1 {
      grid-column: 2/3;
      position: relative;
-    
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
-  
+     height:200px;
  }
  
  .main2 {
      grid-column: 3/4;
      position: relative;
-    
+     height:200px;
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
-   
  }
  
  .main3 {
      grid-column: 2/3;
      position: relative;
-     
+     height:200px;
      cursor: pointer;
      transform: scale(1);
-     transition: transform ease-in-out 250ms;
-  margin:0;
-  padding:0px;
-   
+     transition: transform ease-in-out 250ms; 
  }
  
  
