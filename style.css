@@ -314,6 +314,8 @@ font-weight:700;}
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
+  margin:0;
+  padding:0px;
    
  }
  
