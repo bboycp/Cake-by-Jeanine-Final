@@ -290,7 +290,7 @@ font-weight:700;}
  .main1 {
      grid-column: 2/3;
      position: relative;
-    
+    margin-bottom:10px;
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
@@ -299,7 +299,7 @@ font-weight:700;}
  .main2 {
      grid-column: 3/4;
      position: relative;
-     
+     margin-bottom:10px;
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
@@ -308,7 +308,7 @@ font-weight:700;}
  .main3 {
      grid-column: 2/3;
      position: relative;
-     
+     margin-bottom:10px;
      cursor: pointer;
      transform: scale(1);
      transition: transform ease-in-out 250ms;
